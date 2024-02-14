@@ -1,0 +1,37 @@
+D:\ASK FM\bin\Debug\net6.0\ASK FM.exe
+D:\ASK FM\bin\Debug\net6.0\ASK FM.deps.json
+D:\ASK FM\bin\Debug\net6.0\ASK FM.runtimeconfig.json
+D:\ASK FM\bin\Debug\net6.0\ASK FM.dll
+D:\ASK FM\bin\Debug\net6.0\ASK FM.pdb
+D:\ASK FM\obj\Debug\net6.0\ASK FM.csproj.AssemblyReference.cache
+D:\ASK FM\obj\Debug\net6.0\ASK FM.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASK FM\obj\Debug\net6.0\ASK FM.AssemblyInfoInputs.cache
+D:\ASK FM\obj\Debug\net6.0\ASK FM.AssemblyInfo.cs
+D:\ASK FM\obj\Debug\net6.0\ASK FM.csproj.CoreCompileInputs.cache
+D:\ASK FM\obj\Debug\net6.0\ASK FM.dll
+D:\ASK FM\obj\Debug\net6.0\refint\ASK FM.dll
+D:\ASK FM\obj\Debug\net6.0\ASK FM.pdb
+D:\ASK FM\obj\Debug\net6.0\ASK FM.genruntimeconfig.cache
+D:\ASK FM\obj\Debug\net6.0\ref\ASK FM.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\ASK FM.exe
+D:\ASK Project\ASK FM\bin\Debug\net6.0\ASK FM.deps.json
+D:\ASK Project\ASK FM\bin\Debug\net6.0\ASK FM.runtimeconfig.json
+D:\ASK Project\ASK FM\bin\Debug\net6.0\ASK FM.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\ASK FM.pdb
+D:\ASK Project\ASK FM\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ASK Project\ASK FM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.csproj.AssemblyReference.cache
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.AssemblyInfoInputs.cache
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.AssemblyInfo.cs
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.csproj.CoreCompileInputs.cache
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.csproj.CopyComplete
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.dll
+D:\ASK Project\ASK FM\obj\Debug\net6.0\refint\ASK FM.dll
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.pdb
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ASK FM.genruntimeconfig.cache
+D:\ASK Project\ASK FM\obj\Debug\net6.0\ref\ASK FM.dll
